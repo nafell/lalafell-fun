@@ -4,14 +4,13 @@ export default function Home() {
       <h1>Lalafell Masterrace Club</h1>
       <article>
         <section>
-          <h3>lalafell.fun: </h3>
-          <a href="is.lalafell.fun">bluesky PDS (dev sandbox)</a><br/>
+          <h3 className="mt-4 font-bold">lalafell.fun</h3>
+          <a className="text-blue-700 underline" href="is.lalafell.fun">bluesky PDS (dev sandbox)</a><br/>
         </section>
         <section>
-          <h3>author: </h3>
-          Pathemia<br/>
-          <a href="https://twitter.com/PathemiaLalaM">twitter(X)</a><br/>
-          <a href="https://bsky.app/profile/pathemia.bsky.social">bluesky</a><br/>
+          <h3 className="mt-4 font-bold">author</h3>
+          <a className="text-blue-700 underline" href="https://bsky.app/profile/pathemia.bsky.social">bluesky</a><br/>
+          <a className="text-blue-700 underline" href="https://twitter.com/PathemiaLalaM">twitter(X)</a><br/>
         </section>
       </article>
     </>

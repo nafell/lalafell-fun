@@ -5,7 +5,7 @@ export default function Home() {
       <article>
         <section>
           <h3 className="mt-4 font-bold">lalafell.fun</h3>
-          <a className="text-blue-700 underline" href="is.lalafell.fun">bluesky PDS (dev sandbox)</a><br/>
+          <a className="text-blue-700 underline" href="https://is.lalafell.fun">bluesky PDS (dev sandbox)</a><br/>
         </section>
         <section>
           <h3 className="mt-4 font-bold">author</h3>

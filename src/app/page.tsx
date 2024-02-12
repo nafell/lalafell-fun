@@ -9,6 +9,7 @@ export default function Home() {
         </section>
         <section>
           <h3 className="mt-4 font-bold">author</h3>
+          <a className="text-blue-700 underline" href="https://www.nafell.dev/">blog(nafell.dev)</a><br/>
           <a className="text-blue-700 underline" href="https://bsky.app/profile/pathemia.bsky.social">bluesky</a><br/>
           <a className="text-blue-700 underline" href="https://twitter.com/PathemiaLalaM">twitter(X)</a><br/>
         </section>
